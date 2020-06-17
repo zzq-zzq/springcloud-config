@@ -1,2 +1,4 @@
 server:
   port: 8080
+config:
+  info: 我是谁 version 1
